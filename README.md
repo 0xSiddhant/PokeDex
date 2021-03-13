@@ -1,4 +1,4 @@
-# pokedex
+# Pokedex
 
 A Flutter application which show Pokemon List and its details
 
