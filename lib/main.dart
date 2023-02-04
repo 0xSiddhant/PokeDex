@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
     final pokemonDetailsCubit = PokemonDetailsCubit();
     return MaterialApp(
         title: 'Poki Dex',
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
             colorScheme: ColorScheme.fromSwatch(
                 primarySwatch: Colors.red, accentColor: Colors.redAccent)),

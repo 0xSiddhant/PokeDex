@@ -44,7 +44,7 @@ class PokemonDetailsView extends StatelessWidget {
                             .toList(),
                       ),
                       Text(
-                          'ID ${pokemon.id} - Wieght ${pokemon.weight} - Height ${pokemon.height}')
+                          'ID ${pokemon.id} - Weight ${pokemon.weight} - Height ${pokemon.height}')
                     ]),
               )),
           Expanded(
